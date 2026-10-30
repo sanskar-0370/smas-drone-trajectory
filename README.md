@@ -1,7 +1,7 @@
 # smas-drone-trajectory
 Reconstructing a 3D drone trajectory from raw IMU and barometer data without GPS.
 ## 🚀 Live 3D Visualizer
-**[Click here to view the Interactive 3D Flight Visualizer](INSERT_YOUR_GITHUB_PAGES_LINK_HERE)**
+**[Click here to view the Interactive 3D Flight Visualizer](https://sanskar-0370.github.io/smas-drone-trajectory/)**
 
 ## 📖 Project Overview
 This project was completed for the **System Modelling, Analysis and Stories (SMAS)** course at IIT Jammu. The objective was to build a complete dead-reckoning navigation pipeline from scratch using a 25-second, 10 Hz flight log containing 3-axis accelerometer, 3-axis gyroscope, and barometric altitude data. 
